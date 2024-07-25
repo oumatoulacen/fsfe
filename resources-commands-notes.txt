@@ -1,0 +1,4 @@
+https://spinnaker.io/ =======> ci/cd
+cron ======> crontab guru (website)
+crontab -e ====> cmd: edit cron job or add new one.
+save writing to readonly file(vim) ===> :w !sudo tee %
