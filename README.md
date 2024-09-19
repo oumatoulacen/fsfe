@@ -7,3 +7,4 @@ pm2 start app.js --watch
 pm2 save
 pm2 startup # follow the next instructions
 ```
+...
